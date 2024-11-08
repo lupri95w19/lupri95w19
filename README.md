@@ -44,12 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
 <h3 align="left">Back end</h3>
 
 ###
@@ -70,12 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
 <h3 align="left">CMS</h3>
 
 ###
@@ -83,12 +71,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left"></h3>
 
 ###
 
@@ -101,12 +83,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="30" alt="apache logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left"></h3>
 
 ###
 
@@ -127,12 +103,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left"></h3>
 
 ###
 
@@ -180,12 +150,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
 <h3 align="left">UX/UI</h3>
 
 ###
@@ -198,12 +162,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
 <h3 align="left">Video Editing</h3>
 
 ###
@@ -213,12 +171,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left"></h3>
 
 ###
 
