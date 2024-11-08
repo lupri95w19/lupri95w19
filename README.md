@@ -138,7 +138,7 @@
 
 ###
 
-<h3 align="left">Photo Editing & Illustration</h3>
+<h3 align="left">Print & Digital Design Tools</h3>
 
 ###
 
