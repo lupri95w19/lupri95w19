@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">\\<Web Dev/\\></h2>
+<h2 align="center">`<Web Dev/>`</h2>
 
 ###
 
