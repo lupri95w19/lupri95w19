@@ -42,6 +42,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="left">Back end</h3>
 
 ###
@@ -62,6 +66,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="left">CMS</h3>
 
 ###
@@ -69,6 +77,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -81,6 +93,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -104,6 +120,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="left">Miscellaneous</h3>
 
 ###
@@ -117,6 +137,14 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
