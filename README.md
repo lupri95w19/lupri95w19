@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
@@ -144,11 +144,11 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
@@ -164,9 +164,11 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
-
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
 </div>
+
+###
+
+<h3 align="left"></h3>
 
 ###
 
@@ -182,6 +184,10 @@
 
 ###
 
+<h3 align="left"></h3>
+
+###
+
 <h3 align="left">Video Editing</h3>
 
 ###
@@ -194,6 +200,10 @@
 
 ###
 
+<h3 align="left"></h3>
+
+###
+
 <h3 align="left">3D</h3>
 
 ###
@@ -201,6 +211,14 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
 </div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left"></h3>
 
 ###
 
