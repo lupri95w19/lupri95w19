@@ -206,7 +206,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/7a/68/af/7a68aff13ebab60000e7b8703d71a7c5.gif"  />
+  <img src="https://i.pinimg.com/originals/7a/68/af/7a68aff13ebab60000e7b8703d71a7c5.gif"  />
 </div>
 
 ###
