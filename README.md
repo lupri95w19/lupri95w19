@@ -4,7 +4,7 @@
 
 <p align="left">I'm a 23 years old Full-Stack Web Developer and a Graphic Designer</p>
 
-<p>Gamer and programmer 24/7, sometimes a Film or TvSeries watcher... and more rarely reader, wheter it's a book, comic or manga</p>
+<p>Gamer and programmer 24/7, sometimes a Film or TvSeries watcher... and more rarely a reader, wheter it's a book, a comic or a manga.</p>
 
 <p>Actually Living in Catania.</p>
 
