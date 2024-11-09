@@ -4,6 +4,10 @@
 
 <p align="left">I'm a Full-Stack Web Developer and a Graphic Designer</p>
 
+<p>23 years old Living in Catania.</p>
+
+<p>Gamer and programmer 24/7, sometimes a Film or TvSeries watcher... and more rarely reader, wheter it's a book, comic or manga</p>
+
 ###
 
 <h2 align="center">&lt;Web Dev/&gt;</h2>
