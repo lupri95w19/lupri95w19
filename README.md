@@ -6,7 +6,7 @@
 
 <p align="left">Gamer and programmer 24/7 for hobby.</p>
 
-<p align="left">Sometimes a Film or TvSeries watcher... and more rarely a reader, wheter it's a book, a comic or a manga.</p>
+<p align="left">Sometimes a Film or a TvSeries watcher... and more rarely a reader, wheter it's a book, a comic or a manga.</p>
 
 <p>Actually Living in Catania.</p>
 
