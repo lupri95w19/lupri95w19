@@ -222,7 +222,7 @@
 ###
 
 <div align="center">
-  <img height="150" width="150" src="https://i.imgur.com/cBN7A1i.gif"  />
+  <img height="150" width="150" src="https://i.imgur.com/cBN7A1i.gif" alt="Draven GIF"/>
 </div>
 
 ###
