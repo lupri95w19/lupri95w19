@@ -16,12 +16,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
 <h2 align="center">&lt;Web Dev/&gt;</h2>
 
 ###
