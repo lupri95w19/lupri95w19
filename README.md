@@ -142,6 +142,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lupri95w19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
+
 <br clear="both">
 
 <h3 align="left"></h3>
