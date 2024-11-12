@@ -143,7 +143,7 @@
 </div>
 
 <div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=lupri95w19&stroke=%23BB432C)
+  <img src="https://github.r2v.ch/codewars?user=lupri95w19&stroke=%23BB432C" alt="Codewars Badge">
 </div>
 
 
