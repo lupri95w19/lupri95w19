@@ -146,7 +146,7 @@
 
 <br clear="both">
 
-<h3 align="left"></h3>
+<h3 align="left"></h4>
 
 <div align="center">
   <img src="https://github.r2v.ch/codewars?user=lupri95w19&stroke=%23BB432C" height="150" alt="Codewars Badge" />
