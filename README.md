@@ -142,8 +142,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lupri95w19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<br clear="both">
+
+<h3 align="left"></h3>
+
 <div align="center">
-  <img src="https://github.r2v.ch/codewars?user=lupri95w19&stroke=%23BB432C" alt="Codewars Badge">
+  <img src="https://github.r2v.ch/codewars?user=lupri95w19&stroke=%23BB432C" height="150" alt="Codewars Badge" />
 </div>
 
 
