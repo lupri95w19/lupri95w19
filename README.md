@@ -133,18 +133,14 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
 
 <h3 align="left">Certificate</h3>
 
 
-<div align="center">
+<div align="left">
 <!--   <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">📜 Full-Stack Web Dev Certificate</a> -->
 
-<p align="center">
+<p align="left">
   <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">
     <img src="https://img.shields.io/badge/Full--Stack-blue?style=for-the-badge" alt="Full-Stack Web Dev Certificate" />
   </a>
