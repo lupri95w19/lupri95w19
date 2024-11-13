@@ -148,6 +148,17 @@
 </p>
 </div>
 
+<p align="center">
+  <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">
+    <img src="https://img.shields.io/badge/Certificate-Full--Stack%20Web%20Dev-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Full-Stack Web Dev Certificate" />
+  </a>
+  <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">
+    <img src="https://img.shields.io/badge/External%20Link-blue?style=for-the-badge&logo=external-link-square-alt&logoColor=white" alt="External Link" />
+  </a>
+  <br>
+  <em>(Clicking will open in a new tab)</em>
+</p>
+
 
 
 
