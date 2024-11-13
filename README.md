@@ -141,6 +141,10 @@
   <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">📜 Full-Stack Web Dev Certificate</a>
 </div>
 
+<div align="center">
+  [![Full-Stack Web Dev Certificate](https://img.shields.io/badge/Full--Stack%20Web%20Dev%20Certificate-blue?style=for-the-badge&logo=book)](https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3)
+</div>
+
 <br clear="both">
 
 <h3 align="left"></h3>
