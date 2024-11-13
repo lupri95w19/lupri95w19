@@ -138,7 +138,7 @@
 <h3 align="left"></h3>
 
 <div align="center">
-  <a href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">Boolean's certificate</a>
+  <a style="text-decoration: none;" href="https://credsverse.com/credentials/9117279f-e299-4076-81ec-9ded72e970b3">Boolean's certificate</a>
 
   a {
   text-decoration: none;
