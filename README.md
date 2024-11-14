@@ -4,11 +4,11 @@
 
 <p align="left">I'm a 23 years old Full-Stack Web Developer and a Graphic Designer</p>
 
-<p align="left">PC Gamer and Dev 24/7 for hobby 👨🏻‍💻.</p>
+<p align="left">PC Gamer and Dev 24/7 for hobby 👨🏻‍💻</p>
 
-<p align="left">Sometimes a Film or Tv Series watcher... and more rarely a reader, wheter it's a book, a comic or a manga.</p>
+<p align="left">Sometimes a Film or Tv Series watcher... and more rarely a reader, wheter it's a book, a comic or a manga</p>
 
-<p align="left">Actually Living in Catania.</p>
+<p align="left">Actually Living in Catania</p>
 
 <br clear="both">
 
