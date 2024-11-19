@@ -111,7 +111,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge" height="30" alt="prettier logo"  />
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?logo=prettier&logoColor=F7BA3E&style=for-the-badge" height="30" alt="prettier logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="12" />
@@ -125,8 +125,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
 </div>
 
 
