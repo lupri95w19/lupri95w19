@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 23 years old Full-Stack Web Developer and a Graphic Designer</p>
+<p align="left">I'm a 24 years old Full-Stack Web Developer and a Graphic Designer</p>
 
 <p align="left">PC Gamer and Dev 24/7 for hobby 👨🏻‍💻</p>
 
@@ -133,6 +133,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"/>
 </div>
 
 ###
