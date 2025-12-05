@@ -278,7 +278,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lupri95w19/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=lupri95w19&label=Profile%20views&color=0e75b6&style=flat" alt="lupri95w19" />
+  <!-- <img src="https://profile-counter.glitch.me/lupri95w19/count.svg?"  /> -->
 </div>
 
 ###
